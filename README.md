@@ -2,6 +2,8 @@
 
 A Garmin Connect IQ data field that displays your Wahoo KICKR BIKE SHIFT's virtual front and rear gear positions while you ride. Developed by [Benyba](https://github.com/Benyba), with an English interface and optional support through [Buy Me a Coffee](https://buymeacoffee.com/benyba).
 
+Also available directly on Garmin Connect IQ store here https://apps.garmin.com/fr-FR/apps/b891c5c5-3788-40b7-91a1-32ee609ab84d
+
 ## Features
 
 - **Front and rear positions**: FRONT and REAR labels, orange selection highlights and matching thin bars.
